@@ -11,7 +11,6 @@ public class HashMapWorkingInternally {
 		map.put("1x","XX");
 		map.put("2","YY");
 		map.put("3","ZZ");
-		System.out.println(map.size());
 	}
 
 }
